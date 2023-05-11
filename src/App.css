@@ -1,0 +1,18 @@
+.App {
+  width: 100%;
+  display: flex;
+justify-content: center;
+padding: 50px;
+text-align: center;
+
+
+}
+.card {
+  
+  border: 4mm ridge rgba(211, 220, 50, .6);
+ 
+}
+
+.btn {
+  color: rgb(34, 1, 19);
+}
